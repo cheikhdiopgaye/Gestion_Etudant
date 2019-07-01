@@ -14,7 +14,7 @@
         <nav>
              <div class="toggle"><i class="fas fa-bars menu"></i></div>
                <ul>
-                    <li><a href="accueil.php">Accueil</a></li>
+                    <li><a href="index.php">Accueil</a></li>
                     <li><a href="listeetudiants.php">Liste des étudiants</a></li>
                     <li><a href="listeboursier.php">Boursiers</a></li>
                     <li><a href="listenonboursier.php">Non boursiers</a></li>
